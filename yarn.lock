@@ -50,10 +50,10 @@
   resolved "https://registry.yarnpkg.com/@designliquido/delegua-tempo/-/delegua-tempo-0.0.1.tgz#964834d127354857cda1c388f5de9327735b6747"
   integrity sha512-/O1/eXlTXPTWSZGZ862i6uHHKCW0cmP6KnOV29zK4d4hgn03QjcNDeFKVC9L9vz3OJ6pPY0d/S8ANJkgBnnoaQ==
 
-"@designliquido/delegua@^0.33.15":
-  version "0.33.15"
-  resolved "https://registry.yarnpkg.com/@designliquido/delegua/-/delegua-0.33.15.tgz#c7ab793e4931fbaea51ab671e47e1924078914d7"
-  integrity sha512-5Tv8qxVcnYOPA+MZ8Y7HyobxZOsWM1/bOkwcbdgrGenL4iUMucRmwx3DILbIrg5uPWVtNibWUlMxrEGYf3+jTQ==
+"@designliquido/delegua@^0.34.0":
+  version "0.34.0"
+  resolved "https://registry.yarnpkg.com/@designliquido/delegua/-/delegua-0.34.0.tgz#6a24460194eac7caf411c65115bb065b1c9d8960"
+  integrity sha512-5vF/5x2jLaDN8NrX/xZ2PRaDbD4JhulmjtUeKBUUM1P15V9GAiF7D51+dEufM9i/OZtX32IJV7zDVexM/9NuwA==
   dependencies:
     antlr4ts "^0.5.0-alpha.4"
     browser-process-hrtime "^1.0.0"
@@ -1671,10 +1671,10 @@ module-deps@^6.2.3:
     through2 "^2.0.0"
     xtend "^4.0.0"
 
-monaco-editor@^0.47.0:
-  version "0.47.0"
-  resolved "https://registry.yarnpkg.com/monaco-editor/-/monaco-editor-0.47.0.tgz#39865d67e0c9fb8c6b49e760bf9caf6a6650d28e"
-  integrity sha512-VabVvHvQ9QmMwXu4du008ZDuyLnHs9j7ThVFsiJoXSOQk18+LF89N4ADzPbFenm0W4V2bGHnFBztIRQTgBfxzw==
+monaco-editor@^0.48.0:
+  version "0.48.0"
+  resolved "https://registry.yarnpkg.com/monaco-editor/-/monaco-editor-0.48.0.tgz#9e54541bbe0ba3f2bb238477d5b981a282205ea0"
+  integrity sha512-goSDElNqFfw7iDHMg8WDATkfcyeLTNpBHQpO8incK6p5qZt5G/1j41X0xdGzpIkGojGXM+QiRQyLjnfDVvrpwA==
 
 normalize-package-data@^3.0.2:
   version "3.0.3"
